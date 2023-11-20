@@ -59,7 +59,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Screenshot 2023-11-15 103327](https://github.com/arshitha7/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979143/0bc5ee1b-0dcc-4d9f-9829-33382ac05f23)
+![Screenshot 2023-11-20 032814](https://github.com/arshitha7/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979143/c03f3ef1-c5f7-4f6b-8f08-41464eb9fc04)
+![image](https://github.com/arshitha7/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979143/43980ab6-940c-4b28-b294-ebd31888808d)
+![image](https://github.com/arshitha7/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979143/c85a85af-6720-4036-990d-313bb5a6bccf)
+![image](https://github.com/arshitha7/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979143/4d3a6d17-2660-4759-a5b3-75b44aa4b12e)
+![image](https://github.com/arshitha7/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979143/d9cedc02-81ca-414b-ab89-1da88a370c0c)
+
+
+
 
 ### Name:  Arshitha MS
 ### Register Number:  23014017
